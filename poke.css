@@ -1,0 +1,76 @@
+html{
+    background-color: black;
+}
+
+
+
+body {
+    text-align: center;
+    background-size: 125%;
+    background-image: url(fondpoke2.jpg) ; 
+    background-position: center;
+    
+}
+
+
+header {
+    background-color: black;
+    color: azure;
+    margin: auto;
+}
+
+.blocP {
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details {
+    
+    background-color: rgb(155, 190, 214);
+    height: 300px;
+    width: 700px;
+    margin: auto;
+    border-radius: 30%;
+    margin-top: 10px;
+    
+}
+
+.liste {
+    background-color: rgb(155, 190, 214);
+    height: auto;
+    width: 700px;
+    margin: auto;
+    margin-top: 10px;
+    border-color: rgb(255, 253, 127);
+
+}
+
+img {
+    background-color: aliceblue;
+    border-radius: 10px
+}
+
+.bouton_espace{
+    margin-top: 20px;
+}
+
+.liste_img{
+    margin-top: 20px;
+}
+
+.pokemon-carte {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    width: 125px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    max-width: 300px;
+}
